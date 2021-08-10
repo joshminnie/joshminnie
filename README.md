@@ -2,12 +2,7 @@
 
 ### Connect with me:
 
-<style type="text/css">
-  .linkedin { color: '#0A66C2'; }
-</style>
-
-
-[<img align="left" alt="joshminnie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/linkedin.svg" class="linkedin"/>][linkedin]
+[<span color="#0A66C2"><img align="left" alt="joshminnie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/linkedin.svg"/></span>][linkedin]
 
 <!--
 **joshminnie/joshminnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
